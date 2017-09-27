@@ -1,0 +1,528 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA8094001F7B8F0000739781 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8093FF1F7B8F0000739781 /* AppDelegate.swift */; };
+		FA8094021F7B8F0000739781 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8094011F7B8F0000739781 /* ViewController.swift */; };
+		FA8094051F7B8F0000739781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8094031F7B8F0000739781 /* Main.storyboard */; };
+		FA8094071F7B8F0000739781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8094061F7B8F0000739781 /* Assets.xcassets */; };
+		FA80940A1F7B8F0000739781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8094081F7B8F0000739781 /* LaunchScreen.storyboard */; };
+		FA8094151F7B8F0100739781 /* Konsultan_SyariahTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8094141F7B8F0100739781 /* Konsultan_SyariahTests.swift */; };
+		FA8094201F7B8F0100739781 /* Konsultan_SyariahUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA80941F1F7B8F0100739781 /* Konsultan_SyariahUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FA8094111F7B8F0100739781 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FA8093F41F7B8F0000739781 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA8093FB1F7B8F0000739781;
+			remoteInfo = "Konsultan Syariah";
+		};
+		FA80941C1F7B8F0100739781 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FA8093F41F7B8F0000739781 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA8093FB1F7B8F0000739781;
+			remoteInfo = "Konsultan Syariah";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FA8093FC1F7B8F0000739781 /* Konsultan Syariah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Konsultan Syariah.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA8093FF1F7B8F0000739781 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FA8094011F7B8F0000739781 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FA8094041F7B8F0000739781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA8094061F7B8F0000739781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA8094091F7B8F0000739781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FA80940B1F7B8F0100739781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8094101F7B8F0100739781 /* Konsultan SyariahTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Konsultan SyariahTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA8094141F7B8F0100739781 /* Konsultan_SyariahTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Konsultan_SyariahTests.swift; sourceTree = "<group>"; };
+		FA8094161F7B8F0100739781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA80941B1F7B8F0100739781 /* Konsultan SyariahUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Konsultan SyariahUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA80941F1F7B8F0100739781 /* Konsultan_SyariahUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Konsultan_SyariahUITests.swift; sourceTree = "<group>"; };
+		FA8094211F7B8F0100739781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA8093F91F7B8F0000739781 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA80940D1F7B8F0100739781 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA8094181F7B8F0100739781 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA8093F31F7B8F0000739781 = {
+			isa = PBXGroup;
+			children = (
+				FA8093FE1F7B8F0000739781 /* Konsultan Syariah */,
+				FA8094131F7B8F0100739781 /* Konsultan SyariahTests */,
+				FA80941E1F7B8F0100739781 /* Konsultan SyariahUITests */,
+				FA8093FD1F7B8F0000739781 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FA8093FD1F7B8F0000739781 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA8093FC1F7B8F0000739781 /* Konsultan Syariah.app */,
+				FA8094101F7B8F0100739781 /* Konsultan SyariahTests.xctest */,
+				FA80941B1F7B8F0100739781 /* Konsultan SyariahUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8093FE1F7B8F0000739781 /* Konsultan Syariah */ = {
+			isa = PBXGroup;
+			children = (
+				FA8093FF1F7B8F0000739781 /* AppDelegate.swift */,
+				FA8094011F7B8F0000739781 /* ViewController.swift */,
+				FA8094031F7B8F0000739781 /* Main.storyboard */,
+				FA8094061F7B8F0000739781 /* Assets.xcassets */,
+				FA8094081F7B8F0000739781 /* LaunchScreen.storyboard */,
+				FA80940B1F7B8F0100739781 /* Info.plist */,
+			);
+			path = "Konsultan Syariah";
+			sourceTree = "<group>";
+		};
+		FA8094131F7B8F0100739781 /* Konsultan SyariahTests */ = {
+			isa = PBXGroup;
+			children = (
+				FA8094141F7B8F0100739781 /* Konsultan_SyariahTests.swift */,
+				FA8094161F7B8F0100739781 /* Info.plist */,
+			);
+			path = "Konsultan SyariahTests";
+			sourceTree = "<group>";
+		};
+		FA80941E1F7B8F0100739781 /* Konsultan SyariahUITests */ = {
+			isa = PBXGroup;
+			children = (
+				FA80941F1F7B8F0100739781 /* Konsultan_SyariahUITests.swift */,
+				FA8094211F7B8F0100739781 /* Info.plist */,
+			);
+			path = "Konsultan SyariahUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA8093FB1F7B8F0000739781 /* Konsultan Syariah */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA8094241F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan Syariah" */;
+			buildPhases = (
+				FA8093F81F7B8F0000739781 /* Sources */,
+				FA8093F91F7B8F0000739781 /* Frameworks */,
+				FA8093FA1F7B8F0000739781 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Konsultan Syariah";
+			productName = "Konsultan Syariah";
+			productReference = FA8093FC1F7B8F0000739781 /* Konsultan Syariah.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FA80940F1F7B8F0100739781 /* Konsultan SyariahTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA8094271F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan SyariahTests" */;
+			buildPhases = (
+				FA80940C1F7B8F0100739781 /* Sources */,
+				FA80940D1F7B8F0100739781 /* Frameworks */,
+				FA80940E1F7B8F0100739781 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FA8094121F7B8F0100739781 /* PBXTargetDependency */,
+			);
+			name = "Konsultan SyariahTests";
+			productName = "Konsultan SyariahTests";
+			productReference = FA8094101F7B8F0100739781 /* Konsultan SyariahTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FA80941A1F7B8F0100739781 /* Konsultan SyariahUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA80942A1F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan SyariahUITests" */;
+			buildPhases = (
+				FA8094171F7B8F0100739781 /* Sources */,
+				FA8094181F7B8F0100739781 /* Frameworks */,
+				FA8094191F7B8F0100739781 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FA80941D1F7B8F0100739781 /* PBXTargetDependency */,
+			);
+			name = "Konsultan SyariahUITests";
+			productName = "Konsultan SyariahUITests";
+			productReference = FA80941B1F7B8F0100739781 /* Konsultan SyariahUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA8093F41F7B8F0000739781 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = ARAY;
+				TargetAttributes = {
+					FA8093FB1F7B8F0000739781 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					FA80940F1F7B8F0100739781 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = FA8093FB1F7B8F0000739781;
+					};
+					FA80941A1F7B8F0100739781 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = FA8093FB1F7B8F0000739781;
+					};
+				};
+			};
+			buildConfigurationList = FA8093F71F7B8F0000739781 /* Build configuration list for PBXProject "Konsultan Syariah" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FA8093F31F7B8F0000739781;
+			productRefGroup = FA8093FD1F7B8F0000739781 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA8093FB1F7B8F0000739781 /* Konsultan Syariah */,
+				FA80940F1F7B8F0100739781 /* Konsultan SyariahTests */,
+				FA80941A1F7B8F0100739781 /* Konsultan SyariahUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA8093FA1F7B8F0000739781 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA80940A1F7B8F0000739781 /* LaunchScreen.storyboard in Resources */,
+				FA8094071F7B8F0000739781 /* Assets.xcassets in Resources */,
+				FA8094051F7B8F0000739781 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA80940E1F7B8F0100739781 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA8094191F7B8F0100739781 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA8093F81F7B8F0000739781 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA8094021F7B8F0000739781 /* ViewController.swift in Sources */,
+				FA8094001F7B8F0000739781 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA80940C1F7B8F0100739781 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA8094151F7B8F0100739781 /* Konsultan_SyariahTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA8094171F7B8F0100739781 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA8094201F7B8F0100739781 /* Konsultan_SyariahUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FA8094121F7B8F0100739781 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FA8093FB1F7B8F0000739781 /* Konsultan Syariah */;
+			targetProxy = FA8094111F7B8F0100739781 /* PBXContainerItemProxy */;
+		};
+		FA80941D1F7B8F0100739781 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FA8093FB1F7B8F0000739781 /* Konsultan Syariah */;
+			targetProxy = FA80941C1F7B8F0100739781 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FA8094031F7B8F0000739781 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA8094041F7B8F0000739781 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FA8094081F7B8F0000739781 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA8094091F7B8F0000739781 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA8094221F7B8F0100739781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FA8094231F7B8F0100739781 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA8094251F7B8F0100739781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Konsultan Syariah/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saliim.Konsultan-Syariah";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		FA8094261F7B8F0100739781 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Konsultan Syariah/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saliim.Konsultan-Syariah";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		FA8094281F7B8F0100739781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Konsultan SyariahTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saliim.Konsultan-SyariahTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Konsultan Syariah.app/Konsultan Syariah";
+			};
+			name = Debug;
+		};
+		FA8094291F7B8F0100739781 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Konsultan SyariahTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saliim.Konsultan-SyariahTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Konsultan Syariah.app/Konsultan Syariah";
+			};
+			name = Release;
+		};
+		FA80942B1F7B8F0100739781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Konsultan SyariahUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saliim.Konsultan-SyariahUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Konsultan Syariah";
+			};
+			name = Debug;
+		};
+		FA80942C1F7B8F0100739781 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Konsultan SyariahUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.saliim.Konsultan-SyariahUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Konsultan Syariah";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA8093F71F7B8F0000739781 /* Build configuration list for PBXProject "Konsultan Syariah" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA8094221F7B8F0100739781 /* Debug */,
+				FA8094231F7B8F0100739781 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA8094241F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan Syariah" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA8094251F7B8F0100739781 /* Debug */,
+				FA8094261F7B8F0100739781 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FA8094271F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan SyariahTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA8094281F7B8F0100739781 /* Debug */,
+				FA8094291F7B8F0100739781 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FA80942A1F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan SyariahUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA80942B1F7B8F0100739781 /* Debug */,
+				FA80942C1F7B8F0100739781 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA8093F41F7B8F0000739781 /* Project object */;
+}
