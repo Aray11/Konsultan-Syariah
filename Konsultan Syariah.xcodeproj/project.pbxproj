@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA0F0FB51F7DCBE200605A76 /* Akhlak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FB41F7DCBE200605A76 /* Akhlak.jpg */; };
+		FA0F0FB71F7DCFE400605A76 /* kategoriViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0F0FB61F7DCFE400605A76 /* kategoriViewController.swift */; };
+		FA0F0FC51F7DDD3200605A76 /* 1.gelap.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FC11F7DDD3200605A76 /* 1.gelap.png */; };
+		FA0F0FC61F7DDD3200605A76 /* 2.buku.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FC21F7DDD3200605A76 /* 2.buku.png */; };
+		FA0F0FC71F7DDD3200605A76 /* 3.gunung.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FC31F7DDD3200605A76 /* 3.gunung.png */; };
+		FA0F0FC81F7DDD3200605A76 /* 4.lampu.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FC41F7DDD3200605A76 /* 4.lampu.png */; };
+		FA0F0FCA1F7DEA4900605A76 /* AqidahViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0F0FC91F7DEA4900605A76 /* AqidahViewController.swift */; };
+		FA0F0FCC1F7DF9B300605A76 /* telolet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FCB1F7DF9B300605A76 /* telolet.jpg */; };
+		FA0F0FCE1F7DFDA000605A76 /* FikihViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0F0FCD1F7DFDA000605A76 /* FikihViewController.swift */; };
+		FA0F0FD41F7E27B000605A76 /* gopay.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FD01F7E27B000605A76 /* gopay.jpeg */; };
+		FA0F0FD51F7E27B000605A76 /* cincin.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FD11F7E27B000605A76 /* cincin.png */; };
+		FA0F0FD61F7E27B000605A76 /* gembok.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FD21F7E27B000605A76 /* gembok.png */; };
+		FA0F0FD71F7E27B000605A76 /* rumput.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FD31F7E27B000605A76 /* rumput.jpg */; };
+		FA0F0FD91F7E431500605A76 /* WanitaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0F0FD81F7E431500605A76 /* WanitaViewController.swift */; };
+		FA0F0FDF1F7E436700605A76 /* payung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FDB1F7E436700605A76 /* payung.jpg */; };
+		FA0F0FE01F7E436700605A76 /* orang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FDC1F7E436700605A76 /* orang.jpg */; };
+		FA0F0FE11F7E436700605A76 /* payung 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FDD1F7E436700605A76 /* payung 2.jpg */; };
+		FA0F0FE21F7E436700605A76 /* payung 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA0F0FDE1F7E436700605A76 /* payung 3.jpg */; };
 		FA8094001F7B8F0000739781 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8093FF1F7B8F0000739781 /* AppDelegate.swift */; };
 		FA8094021F7B8F0000739781 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8094011F7B8F0000739781 /* ViewController.swift */; };
 		FA8094051F7B8F0000739781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8094031F7B8F0000739781 /* Main.storyboard */; };
@@ -14,6 +32,32 @@
 		FA80940A1F7B8F0000739781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8094081F7B8F0000739781 /* LaunchScreen.storyboard */; };
 		FA8094151F7B8F0100739781 /* Konsultan_SyariahTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8094141F7B8F0100739781 /* Konsultan_SyariahTests.swift */; };
 		FA8094201F7B8F0100739781 /* Konsultan_SyariahUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA80941F1F7B8F0100739781 /* Konsultan_SyariahUITests.swift */; };
+		FAA84F601F7BA6D00083227C /* Developer Page.png in Resources */ = {isa = PBXBuildFile; fileRef = FAA84F5F1F7BA6D00083227C /* Developer Page.png */; };
+		FAA84F621F7BA9AD0083227C /* person-outline-icon-png-person-outline-icon-png-person-17.png in Resources */ = {isa = PBXBuildFile; fileRef = FAA84F611F7BA9AD0083227C /* person-outline-icon-png-person-outline-icon-png-person-17.png */; };
+		FABD42E51F7D426C00FD378D /* Ramadhan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FABD42DF1F7D426C00FD378D /* Ramadhan.jpg */; };
+		FABD42E71F7D426C00FD378D /* siluet.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FABD42E11F7D426C00FD378D /* siluet.jpeg */; };
+		FABD42E81F7D426C00FD378D /* Aqidah.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FABD42E21F7D426C00FD378D /* Aqidah.jpg */; };
+		FABD42E91F7D426C00FD378D /* Fikih.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FABD42E31F7D426C00FD378D /* Fikih.jpeg */; };
+		FABD42EA1F7D426C00FD378D /* kesehatan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FABD42E41F7D426C00FD378D /* kesehatan.jpg */; };
+		FAF7EAE91F7C90DB00235D15 /* unnamed.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAE81F7C90DB00235D15 /* unnamed.png */; };
+		FAF7EAED1F7CA54800235D15 /* main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAEC1F7CA54800235D15 /* main.jpg */; };
+		FAF7EAEF1F7CA6CB00235D15 /* kucing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAEE1F7CA6CB00235D15 /* kucing.jpg */; };
+		FAF7EAF11F7CA85200235D15 /* laba2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAF01F7CA85200235D15 /* laba2.jpg */; };
+		FAF7EAF31F7CAB2000235D15 /* setan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAF21F7CAB2000235D15 /* setan.jpg */; };
+		FAF7EAF61F7CABF200235D15 /* AkhlakViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF7EAF51F7CABF200235D15 /* AkhlakViewController.swift */; };
+		FAF7EAF81F7CAE8000235D15 /* KesehatanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF7EAF71F7CAE8000235D15 /* KesehatanViewController.swift */; };
+		FAF7EAFA1F7CAFEA00235D15 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAF91F7CAFEA00235D15 /* 9.jpg */; };
+		FAF7EAFC1F7CB0F900235D15 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF7EAFB1F7CB0F900235D15 /* WebViewController.swift */; };
+		FAF7EB041F7CD98D00235D15 /* Kaki.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EAFF1F7CD98D00235D15 /* Kaki.png */; };
+		FAF7EB051F7CD98D00235D15 /* Obat.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB001F7CD98D00235D15 /* Obat.png */; };
+		FAF7EB061F7CD98D00235D15 /* lumpuh.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB011F7CD98D00235D15 /* lumpuh.png */; };
+		FAF7EB071F7CD98D00235D15 /* Kendaraan.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB021F7CD98D00235D15 /* Kendaraan.png */; };
+		FAF7EB081F7CD98D00235D15 /* permen.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB031F7CD98D00235D15 /* permen.png */; };
+		FAF7EB0E1F7CF72800235D15 /* tarawih.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB0A1F7CF72800235D15 /* tarawih.png */; };
+		FAF7EB0F1F7CF72800235D15 /* zakat.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB0B1F7CF72800235D15 /* zakat.png */; };
+		FAF7EB101F7CF72800235D15 /* batal.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB0C1F7CF72800235D15 /* batal.png */; };
+		FAF7EB111F7CF72800235D15 /* utang.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF7EB0D1F7CF72800235D15 /* utang.png */; };
+		FAF7EB131F7CF87500235D15 /* RamadhanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF7EB121F7CF87500235D15 /* RamadhanViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +78,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA0F0FB41F7DCBE200605A76 /* Akhlak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Akhlak.jpg; sourceTree = "<group>"; };
+		FA0F0FB61F7DCFE400605A76 /* kategoriViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kategoriViewController.swift; sourceTree = "<group>"; };
+		FA0F0FC11F7DDD3200605A76 /* 1.gelap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.gelap.png; sourceTree = "<group>"; };
+		FA0F0FC21F7DDD3200605A76 /* 2.buku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.buku.png; sourceTree = "<group>"; };
+		FA0F0FC31F7DDD3200605A76 /* 3.gunung.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.gunung.png; sourceTree = "<group>"; };
+		FA0F0FC41F7DDD3200605A76 /* 4.lampu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.lampu.png; sourceTree = "<group>"; };
+		FA0F0FC91F7DEA4900605A76 /* AqidahViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AqidahViewController.swift; sourceTree = "<group>"; };
+		FA0F0FCB1F7DF9B300605A76 /* telolet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = telolet.jpg; sourceTree = "<group>"; };
+		FA0F0FCD1F7DFDA000605A76 /* FikihViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FikihViewController.swift; sourceTree = "<group>"; };
+		FA0F0FD01F7E27B000605A76 /* gopay.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gopay.jpeg; sourceTree = "<group>"; };
+		FA0F0FD11F7E27B000605A76 /* cincin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cincin.png; sourceTree = "<group>"; };
+		FA0F0FD21F7E27B000605A76 /* gembok.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gembok.png; sourceTree = "<group>"; };
+		FA0F0FD31F7E27B000605A76 /* rumput.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rumput.jpg; sourceTree = "<group>"; };
+		FA0F0FD81F7E431500605A76 /* WanitaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WanitaViewController.swift; path = "Konsultan Syariah/WanitaViewController.swift"; sourceTree = "<group>"; };
+		FA0F0FDB1F7E436700605A76 /* payung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = payung.jpg; sourceTree = "<group>"; };
+		FA0F0FDC1F7E436700605A76 /* orang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = orang.jpg; sourceTree = "<group>"; };
+		FA0F0FDD1F7E436700605A76 /* payung 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "payung 2.jpg"; sourceTree = "<group>"; };
+		FA0F0FDE1F7E436700605A76 /* payung 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "payung 3.jpg"; sourceTree = "<group>"; };
 		FA8093FC1F7B8F0000739781 /* Konsultan Syariah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Konsultan Syariah.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA8093FF1F7B8F0000739781 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA8094011F7B8F0000739781 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +109,32 @@
 		FA80941B1F7B8F0100739781 /* Konsultan SyariahUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Konsultan SyariahUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA80941F1F7B8F0100739781 /* Konsultan_SyariahUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Konsultan_SyariahUITests.swift; sourceTree = "<group>"; };
 		FA8094211F7B8F0100739781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAA84F5F1F7BA6D00083227C /* Developer Page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Developer Page.png"; sourceTree = "<group>"; };
+		FAA84F611F7BA9AD0083227C /* person-outline-icon-png-person-outline-icon-png-person-17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "person-outline-icon-png-person-outline-icon-png-person-17.png"; sourceTree = "<group>"; };
+		FABD42DF1F7D426C00FD378D /* Ramadhan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ramadhan.jpg; sourceTree = "<group>"; };
+		FABD42E11F7D426C00FD378D /* siluet.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = siluet.jpeg; sourceTree = "<group>"; };
+		FABD42E21F7D426C00FD378D /* Aqidah.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aqidah.jpg; sourceTree = "<group>"; };
+		FABD42E31F7D426C00FD378D /* Fikih.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fikih.jpeg; sourceTree = "<group>"; };
+		FABD42E41F7D426C00FD378D /* kesehatan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kesehatan.jpg; sourceTree = "<group>"; };
+		FAF7EAE81F7C90DB00235D15 /* unnamed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unnamed.png; sourceTree = "<group>"; };
+		FAF7EAEC1F7CA54800235D15 /* main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = main.jpg; sourceTree = "<group>"; };
+		FAF7EAEE1F7CA6CB00235D15 /* kucing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kucing.jpg; sourceTree = "<group>"; };
+		FAF7EAF01F7CA85200235D15 /* laba2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laba2.jpg; sourceTree = "<group>"; };
+		FAF7EAF21F7CAB2000235D15 /* setan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = setan.jpg; sourceTree = "<group>"; };
+		FAF7EAF51F7CABF200235D15 /* AkhlakViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AkhlakViewController.swift; sourceTree = "<group>"; };
+		FAF7EAF71F7CAE8000235D15 /* KesehatanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KesehatanViewController.swift; sourceTree = "<group>"; };
+		FAF7EAF91F7CAFEA00235D15 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		FAF7EAFB1F7CB0F900235D15 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		FAF7EAFF1F7CD98D00235D15 /* Kaki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kaki.png; sourceTree = "<group>"; };
+		FAF7EB001F7CD98D00235D15 /* Obat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Obat.png; sourceTree = "<group>"; };
+		FAF7EB011F7CD98D00235D15 /* lumpuh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lumpuh.png; sourceTree = "<group>"; };
+		FAF7EB021F7CD98D00235D15 /* Kendaraan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kendaraan.png; sourceTree = "<group>"; };
+		FAF7EB031F7CD98D00235D15 /* permen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = permen.png; sourceTree = "<group>"; };
+		FAF7EB0A1F7CF72800235D15 /* tarawih.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tarawih.png; sourceTree = "<group>"; };
+		FAF7EB0B1F7CF72800235D15 /* zakat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zakat.png; sourceTree = "<group>"; };
+		FAF7EB0C1F7CF72800235D15 /* batal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = batal.png; sourceTree = "<group>"; };
+		FAF7EB0D1F7CF72800235D15 /* utang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = utang.png; sourceTree = "<group>"; };
+		FAF7EB121F7CF87500235D15 /* RamadhanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RamadhanViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,9 +162,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA0F0FB81F7DD48800605A76 /* Aqidah */ = {
+			isa = PBXGroup;
+			children = (
+				FA0F0FC11F7DDD3200605A76 /* 1.gelap.png */,
+				FA0F0FC21F7DDD3200605A76 /* 2.buku.png */,
+				FA0F0FC31F7DDD3200605A76 /* 3.gunung.png */,
+				FA0F0FC41F7DDD3200605A76 /* 4.lampu.png */,
+			);
+			name = Aqidah;
+			sourceTree = "<group>";
+		};
+		FA0F0FCF1F7E279E00605A76 /* Fikih */ = {
+			isa = PBXGroup;
+			children = (
+				FA0F0FD01F7E27B000605A76 /* gopay.jpeg */,
+				FA0F0FD11F7E27B000605A76 /* cincin.png */,
+				FA0F0FD21F7E27B000605A76 /* gembok.png */,
+				FA0F0FD31F7E27B000605A76 /* rumput.jpg */,
+			);
+			name = Fikih;
+			sourceTree = "<group>";
+		};
+		FA0F0FDA1F7E431F00605A76 /* Wanita */ = {
+			isa = PBXGroup;
+			children = (
+				FA0F0FDB1F7E436700605A76 /* payung.jpg */,
+				FA0F0FDC1F7E436700605A76 /* orang.jpg */,
+				FA0F0FDD1F7E436700605A76 /* payung 2.jpg */,
+				FA0F0FDE1F7E436700605A76 /* payung 3.jpg */,
+			);
+			name = Wanita;
+			sourceTree = "<group>";
+		};
 		FA8093F31F7B8F0000739781 = {
 			isa = PBXGroup;
 			children = (
+				FAF7EAF41F7CABBC00235D15 /* view controller */,
 				FA8093FE1F7B8F0000739781 /* Konsultan Syariah */,
 				FA8094131F7B8F0100739781 /* Konsultan SyariahTests */,
 				FA80941E1F7B8F0100739781 /* Konsultan SyariahUITests */,
@@ -97,12 +219,29 @@
 		FA8093FE1F7B8F0000739781 /* Konsultan Syariah */ = {
 			isa = PBXGroup;
 			children = (
+				FA0F0FDA1F7E431F00605A76 /* Wanita */,
+				FA0F0FCF1F7E279E00605A76 /* Fikih */,
+				FA0F0FB81F7DD48800605A76 /* Aqidah */,
+				FAF7EB091F7CF70800235D15 /* Ramadhan */,
+				FAF7EAFE1F7CD97700235D15 /* Kesehatan img */,
+				FAF7EAFD1F7CD95900235D15 /* Akhlak img */,
+				FAA84F611F7BA9AD0083227C /* person-outline-icon-png-person-outline-icon-png-person-17.png */,
+				FAA84F5F1F7BA6D00083227C /* Developer Page.png */,
+				FAF7EAF91F7CAFEA00235D15 /* 9.jpg */,
+				FAF7EAE81F7C90DB00235D15 /* unnamed.png */,
+				FA0F0FB41F7DCBE200605A76 /* Akhlak.jpg */,
+				FABD42DF1F7D426C00FD378D /* Ramadhan.jpg */,
+				FABD42E11F7D426C00FD378D /* siluet.jpeg */,
+				FABD42E21F7D426C00FD378D /* Aqidah.jpg */,
+				FABD42E31F7D426C00FD378D /* Fikih.jpeg */,
+				FABD42E41F7D426C00FD378D /* kesehatan.jpg */,
 				FA8093FF1F7B8F0000739781 /* AppDelegate.swift */,
 				FA8094011F7B8F0000739781 /* ViewController.swift */,
 				FA8094031F7B8F0000739781 /* Main.storyboard */,
 				FA8094061F7B8F0000739781 /* Assets.xcassets */,
 				FA8094081F7B8F0000739781 /* LaunchScreen.storyboard */,
 				FA80940B1F7B8F0100739781 /* Info.plist */,
+				FAF7EAFB1F7CB0F900235D15 /* WebViewController.swift */,
 			);
 			path = "Konsultan Syariah";
 			sourceTree = "<group>";
@@ -123,6 +262,55 @@
 				FA8094211F7B8F0100739781 /* Info.plist */,
 			);
 			path = "Konsultan SyariahUITests";
+			sourceTree = "<group>";
+		};
+		FAF7EAF41F7CABBC00235D15 /* view controller */ = {
+			isa = PBXGroup;
+			children = (
+				FAF7EAF51F7CABF200235D15 /* AkhlakViewController.swift */,
+				FAF7EAF71F7CAE8000235D15 /* KesehatanViewController.swift */,
+				FAF7EB121F7CF87500235D15 /* RamadhanViewController.swift */,
+				FA0F0FB61F7DCFE400605A76 /* kategoriViewController.swift */,
+				FA0F0FC91F7DEA4900605A76 /* AqidahViewController.swift */,
+				FA0F0FCD1F7DFDA000605A76 /* FikihViewController.swift */,
+				FA0F0FD81F7E431500605A76 /* WanitaViewController.swift */,
+			);
+			name = "view controller";
+			sourceTree = "<group>";
+		};
+		FAF7EAFD1F7CD95900235D15 /* Akhlak img */ = {
+			isa = PBXGroup;
+			children = (
+				FA0F0FCB1F7DF9B300605A76 /* telolet.jpg */,
+				FAF7EAEC1F7CA54800235D15 /* main.jpg */,
+				FAF7EAEE1F7CA6CB00235D15 /* kucing.jpg */,
+				FAF7EAF01F7CA85200235D15 /* laba2.jpg */,
+				FAF7EAF21F7CAB2000235D15 /* setan.jpg */,
+			);
+			name = "Akhlak img";
+			sourceTree = "<group>";
+		};
+		FAF7EAFE1F7CD97700235D15 /* Kesehatan img */ = {
+			isa = PBXGroup;
+			children = (
+				FAF7EAFF1F7CD98D00235D15 /* Kaki.png */,
+				FAF7EB001F7CD98D00235D15 /* Obat.png */,
+				FAF7EB011F7CD98D00235D15 /* lumpuh.png */,
+				FAF7EB021F7CD98D00235D15 /* Kendaraan.png */,
+				FAF7EB031F7CD98D00235D15 /* permen.png */,
+			);
+			name = "Kesehatan img";
+			sourceTree = "<group>";
+		};
+		FAF7EB091F7CF70800235D15 /* Ramadhan */ = {
+			isa = PBXGroup;
+			children = (
+				FAF7EB0A1F7CF72800235D15 /* tarawih.png */,
+				FAF7EB0B1F7CF72800235D15 /* zakat.png */,
+				FAF7EB0C1F7CF72800235D15 /* batal.png */,
+				FAF7EB0D1F7CF72800235D15 /* utang.png */,
+			);
+			name = Ramadhan;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +420,45 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FABD42E91F7D426C00FD378D /* Fikih.jpeg in Resources */,
+				FA0F0FDF1F7E436700605A76 /* payung.jpg in Resources */,
+				FAF7EAFA1F7CAFEA00235D15 /* 9.jpg in Resources */,
+				FABD42E81F7D426C00FD378D /* Aqidah.jpg in Resources */,
+				FAA84F601F7BA6D00083227C /* Developer Page.png in Resources */,
+				FAF7EAED1F7CA54800235D15 /* main.jpg in Resources */,
+				FA0F0FE01F7E436700605A76 /* orang.jpg in Resources */,
+				FAF7EAF11F7CA85200235D15 /* laba2.jpg in Resources */,
+				FABD42E51F7D426C00FD378D /* Ramadhan.jpg in Resources */,
+				FAF7EB081F7CD98D00235D15 /* permen.png in Resources */,
+				FA0F0FC71F7DDD3200605A76 /* 3.gunung.png in Resources */,
+				FAF7EAEF1F7CA6CB00235D15 /* kucing.jpg in Resources */,
 				FA80940A1F7B8F0000739781 /* LaunchScreen.storyboard in Resources */,
+				FAF7EB111F7CF72800235D15 /* utang.png in Resources */,
+				FAF7EB0F1F7CF72800235D15 /* zakat.png in Resources */,
+				FA0F0FC61F7DDD3200605A76 /* 2.buku.png in Resources */,
+				FAF7EAE91F7C90DB00235D15 /* unnamed.png in Resources */,
 				FA8094071F7B8F0000739781 /* Assets.xcassets in Resources */,
 				FA8094051F7B8F0000739781 /* Main.storyboard in Resources */,
+				FA0F0FD71F7E27B000605A76 /* rumput.jpg in Resources */,
+				FABD42E71F7D426C00FD378D /* siluet.jpeg in Resources */,
+				FA0F0FCC1F7DF9B300605A76 /* telolet.jpg in Resources */,
+				FA0F0FD51F7E27B000605A76 /* cincin.png in Resources */,
+				FAF7EB101F7CF72800235D15 /* batal.png in Resources */,
+				FAA84F621F7BA9AD0083227C /* person-outline-icon-png-person-outline-icon-png-person-17.png in Resources */,
+				FAF7EB041F7CD98D00235D15 /* Kaki.png in Resources */,
+				FA0F0FC51F7DDD3200605A76 /* 1.gelap.png in Resources */,
+				FAF7EB051F7CD98D00235D15 /* Obat.png in Resources */,
+				FAF7EB061F7CD98D00235D15 /* lumpuh.png in Resources */,
+				FABD42EA1F7D426C00FD378D /* kesehatan.jpg in Resources */,
+				FA0F0FC81F7DDD3200605A76 /* 4.lampu.png in Resources */,
+				FA0F0FE11F7E436700605A76 /* payung 2.jpg in Resources */,
+				FA0F0FD61F7E27B000605A76 /* gembok.png in Resources */,
+				FAF7EAF31F7CAB2000235D15 /* setan.jpg in Resources */,
+				FA0F0FB51F7DCBE200605A76 /* Akhlak.jpg in Resources */,
+				FAF7EB0E1F7CF72800235D15 /* tarawih.png in Resources */,
+				FA0F0FD41F7E27B000605A76 /* gopay.jpeg in Resources */,
+				FAF7EB071F7CD98D00235D15 /* Kendaraan.png in Resources */,
+				FA0F0FE21F7E436700605A76 /* payung 3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +483,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA0F0FD91F7E431500605A76 /* WanitaViewController.swift in Sources */,
+				FA0F0FCE1F7DFDA000605A76 /* FikihViewController.swift in Sources */,
+				FAF7EAF61F7CABF200235D15 /* AkhlakViewController.swift in Sources */,
 				FA8094021F7B8F0000739781 /* ViewController.swift in Sources */,
 				FA8094001F7B8F0000739781 /* AppDelegate.swift in Sources */,
+				FA0F0FB71F7DCFE400605A76 /* kategoriViewController.swift in Sources */,
+				FA0F0FCA1F7DEA4900605A76 /* AqidahViewController.swift in Sources */,
+				FAF7EAFC1F7CB0F900235D15 /* WebViewController.swift in Sources */,
+				FAF7EB131F7CF87500235D15 /* RamadhanViewController.swift in Sources */,
+				FAF7EAF81F7CAE8000235D15 /* KesehatanViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +737,7 @@
 				FA8094261F7B8F0100739781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA8094271F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan SyariahTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +746,7 @@
 				FA8094291F7B8F0100739781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA80942A1F7B8F0100739781 /* Build configuration list for PBXNativeTarget "Konsultan SyariahUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +755,7 @@
 				FA80942C1F7B8F0100739781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
